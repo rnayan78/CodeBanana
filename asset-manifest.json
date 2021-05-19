@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CodeBanana/static/css/main.10829636.chunk.css",
+    "main.js": "/CodeBanana/static/js/main.4b4bef2c.chunk.js",
+    "main.js.map": "/CodeBanana/static/js/main.4b4bef2c.chunk.js.map",
+    "runtime-main.js": "/CodeBanana/static/js/runtime-main.fe226c6b.js",
+    "runtime-main.js.map": "/CodeBanana/static/js/runtime-main.fe226c6b.js.map",
+    "static/js/2.7149176c.chunk.js": "/CodeBanana/static/js/2.7149176c.chunk.js",
+    "static/js/2.7149176c.chunk.js.map": "/CodeBanana/static/js/2.7149176c.chunk.js.map",
+    "index.html": "/CodeBanana/index.html",
+    "static/css/main.10829636.chunk.css.map": "/CodeBanana/static/css/main.10829636.chunk.css.map",
+    "static/js/2.7149176c.chunk.js.LICENSE.txt": "/CodeBanana/static/js/2.7149176c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe226c6b.js",
+    "static/js/2.7149176c.chunk.js",
+    "static/css/main.10829636.chunk.css",
+    "static/js/main.4b4bef2c.chunk.js"
+  ]
+}
