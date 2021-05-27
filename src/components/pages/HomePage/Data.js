@@ -20,7 +20,7 @@ export const homeObjTwo = {
     description: "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to code",
     buttonLabel: 'Start Now',
     imgStart: 'start',
-    img: 'images/6.svg',
+    img: 'images/3.svg',
     alt: 'Vault'
 };
 
