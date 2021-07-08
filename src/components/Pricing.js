@@ -31,7 +31,7 @@ function Pricing() {
                                     <li>Notes and resource to explore</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>
-                                    Choose Project
+                                    Coming Soon
                                 </Button>
                             </div>
                         </Link>
@@ -50,7 +50,7 @@ function Pricing() {
                                     <li>Notes and resource to explore</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='blue'>
-                                    Choose Project
+                                    Start Coding
                                 </Button>
                             </div>
                         </Link>
@@ -65,7 +65,7 @@ function Pricing() {
                                 <p></p>
                                 <ul className="pricing__container-features">
                                     <li>Complete guided project</li>
-                                    <li>Friendly for beginners</li>
+                                    <li>One account for all students</li>
                                     <li>Notes and resource to explore</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>
