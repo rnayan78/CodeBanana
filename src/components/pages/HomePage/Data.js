@@ -3,9 +3,9 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: "Explore CodeBanana", // - working correctly
-  headline: "Learn to code in a different way",
+  headline: "Learn to code in a new way",
   description:
-    "Get access to our awesome coding platform that allows you to visualize the code",
+    "Our awesome coding platform lets you visualize code like you’ve never seen before",
   buttonLabel: "Get Started",
   imgStart: "",
   img: "images/2.svg", // need to change the image
@@ -17,9 +17,9 @@ export const homeObjTwo = {
   lightText: false,
   lightTextDesc: false,
   topLine: "EASY SETUP",
-  headline: "Super fast and Easy to use",
+  headline: "Super Fast and Easy to use",
   description:
-    "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to code",
+    "Start coding with a click of a button. The no installation feature ensures that you have access anywhere",
   imgStart: "start",
   img: "images/3.svg",
   alt: "Vault",
@@ -30,9 +30,9 @@ export const homeObjThree = {
   lightText: true,
   lightTextDesc: true,
   topLine: "Build Projects",
-  headline: "Start building actual working projects",
+  headline: "Build actual working projects",
   description:
-    "We have you covered no matter where you are located. The no installation feature ensure you have access anytime",
+    "Build user-friendly projects. Learn concepts while building",
   imgStart: "",
   img: "images/1.svg",
   alt: "Vault",
@@ -43,9 +43,9 @@ export const homeObjFour = {
   lightText: true,
   lightTextDesc: true,
   topLine: "Certificates",
-  headline: "Once done building you get certified",
+  headline: "Once you’re done building, get certified",
   description:
-    "Although your projects are enough to show your skills, we still belive a little show-off does not hurt anyone",
+    "Although we believe your projects are enough to show your skills, a little showing-off never hurt anyone",
   imgStart: "start",
   img: "images/4.svg",
   alt: "Vault",
