@@ -4,6 +4,7 @@ import "./Navbar.css";
 import { Button } from "./Button";
 import { FaBars, FaTimes, FaLaptopCode } from "react-icons/fa";
 import { IconContext } from "react-icons/lib"; //Context Api of react
+import imgsrc from "./logo-v1.png";
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -33,7 +34,13 @@ function Navbar() {
         <div className="navbar">
           <div className="navbar-container container">
             <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-              <FaLaptopCode className="navbar-icon" />
+              <img
+                src={imgsrc}
+                className="navbar-icon"
+                alt="logo"
+                width="100"
+                height="100"
+              />
               CodeBanana
             </Link>
             <div className="menu-icon" onClick={handleClick}>
