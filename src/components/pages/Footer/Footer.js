@@ -24,8 +24,14 @@ function Footer() {
               type="email"
               placeholder="Your Email"
             />
-            <Button buttonStyle="btn--outline">Subscribe</Button>
           </form>
+          <a
+            href="https://forms.gle/bLGWYFmg8KiQzRQS7"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button buttonStyle="btn--outline">Subscribe</Button>
+          </a>
         </div>
       </section>
 
