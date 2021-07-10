@@ -5,7 +5,7 @@ export const homeObjOne = {
   topLine: "Explore CodeBanana", // - working correctly
   headline: "Learn to code in a new way",
   description:
-    "Our awesome coding platform lets you visualize code like you’ve never seen before.",
+    "Our awesome coding platform lets you visualize code as you’ve never seen before.",
   buttonLabel: "Get Started",
   imgStart: "",
   img: "images/2.svg", // need to change the image
