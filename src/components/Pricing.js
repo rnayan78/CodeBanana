@@ -54,7 +54,7 @@ function Pricing() {
                       <li>Notes and resource to explore</li>
                     </ul>
                     <Button buttonSize="btn--wide" buttonColor="blue">
-                      Start Coding
+                      Coming Soon
                     </Button>
                   </div>
                 </a>
