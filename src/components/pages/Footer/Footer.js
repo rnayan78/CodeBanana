@@ -2,7 +2,7 @@ import React from "react";
 import "./Footer.css";
 import { Button } from "../../Button";
 import { Link } from "react-router-dom";
-import { FaInstagram, FaTwitter, FaLinkedin } from "react-icons/fa";
+import { FaInstagram, FaTwitter, FaFacebook, FaMailBulk } from "react-icons/fa";
 import { FaLaptopCode } from "react-icons/fa";
 import imgsrc from "../../logo-v1.png";
 
@@ -49,24 +49,33 @@ function Footer() {
               CodeBanana
             </Link>
           </div>
-          <small className="website-rights">CodeBanana © 2021</small>
+          <small className="website-rights">CodeBanana © 2023</small>
           <div className="social-icons">
-            {/*<Link
+            {<Link
               className='social-icon-link'
-              to='/'
+              to='//www.facebook.com/'
               target='_blank'
               aria-label='Facebook'
             >
               <FaFacebook />
-            </Link>*/}
+            </Link>}
             <Link
               className="social-icon-link"
-              to="/"
+              to="//www.instagram.com/"
               target="_blank"
               aria-label="Instagram"
             >
               <FaInstagram />
             </Link>
+
+            <Link
+              className='social-icon-link'
+              to='mailto:priambada.kumari@ieseg.fr' // Replace 'your-email@gmail.com' with your actual Gmail address
+              target='_blank'
+              aria-label='Gmail'
+            >
+              <FaMailBulk />
+              </Link>
             {/*<Link      
               className='social-icon-link'
               to={                 {to direct it to a link {'//link'}}
@@ -79,20 +88,21 @@ function Footer() {
             </Link>*/}
             <Link
               className="social-icon-link"
-              to="/"
+              to="//www.twitter.com/"
               target="_blank"
               aria-label="Twitter"
             >
               <FaTwitter />
             </Link>
-            <Link
+            {/*<Link
               className="social-icon-link"
               to="/"
               target="_blank"
               aria-label="LinkedIn"
             >
               <FaLinkedin />
-            </Link>
+          </Link>*/}
+
           </div>
         </div>
       </section>
